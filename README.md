@@ -654,7 +654,7 @@ This project demonstrates practical skills in:
 
 **Impana R**
 
-B.Sc. Computer Science Student  
+B.Sc. Data Science Student  
 Aspiring Data Analyst
 
 ---
