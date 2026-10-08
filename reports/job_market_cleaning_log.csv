@@ -1,0 +1,9 @@
+Step,Description
+Initial dataset,Loaded original job-market dataset
+Duplicate removal,Checked and removed exact/business-key duplicates
+Placeholder handling,Converted relevant placeholder values to missing
+Text cleaning,Trimmed whitespace from text fields
+Experience validation,Validated and rebuilt experience fields
+Salary validation,Validated salary ranges and created salary midpoint
+Feature engineering,Created analytical features
+Final validation,"Validated IDs, ranges, duplicates and experience consistency"
